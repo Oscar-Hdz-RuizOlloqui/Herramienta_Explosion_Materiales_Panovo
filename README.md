@@ -50,7 +50,7 @@ PowerBI-OEE-Coflex/
 ## 📎 Cómo utilizarlo
 
 1. Clona este repositorio.
-2. Abre el archivo `pbix/Dashboard_OEE_Coflex.pbix` con Power BI Desktop.
+2. Abre el archivo `pbix/DA_SOP_CDS.pbix` con Power BI Desktop.
 3. Conecta tu fuente de datos o consulta en SQL Server.
 4. Revisa la documentación en `/docs` para entender cada fórmula y estructura.
 
