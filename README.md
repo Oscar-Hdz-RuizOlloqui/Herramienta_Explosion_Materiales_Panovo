@@ -1,12 +1,13 @@
 # 📊 Dashboard Explosión de Materiales Panovo - Power BI
 
-Este repositorio contiene un ejemplo real de implementación de un dashboard de Power BI conectado a SQL Server, orientado al análisis de ventas de la industria panificadora.
+Este repositorio contiene un ejemplo real de implementación de una herramienta de explosión de materiales desarrollada en Power BI, conectada a una base de datos SQL Server. Está orientada a facilitar el análisis y la planificación de requerimientos de insumos en la industria panificadora.
+
 
 ---
 
 ## 📌 Objetivo
 
-Brindar visibilidad diaria de la facturación, así como de la distribución por SKU y por cliente.
+Monitorear en tiempo real la cobertura de materiales críticos para la ejecución de pedidos de producción, permitiendo evaluar el Fill Rate interno y anticipar riesgos de desabasto que puedan afectar la continuidad operativa.
 
 ---
 
